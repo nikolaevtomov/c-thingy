@@ -1,1 +1,5 @@
 # c-thingy
+
+### $ make
+### $ ./main
+
