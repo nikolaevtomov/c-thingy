@@ -1,5 +1,10 @@
-# c-thingy
+### c-thingy
 
-### $ make
-### $ ./main
+
+```
+$ make
+```
+```
+$ ./main
+```
 
