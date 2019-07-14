@@ -22,6 +22,9 @@ int main() {
   square(someNumber);
   printf("The value of someNumber: %d\n\n", *someNumber);
 
+  // free up the memory
+  free(someNumber);
+
   return 0;
 }
 
