@@ -2,9 +2,13 @@
 
 
 ```
-$ make
+& make
+or
+$ make ./array/main
 ```
 ```
-$ ./main
+$ ./make
+or
+$ ./array/main
 ```
 
